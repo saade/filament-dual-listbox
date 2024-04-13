@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Saade\FilamentDualListbox\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentDualListboxCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-dual-listbox';
 
     public $description = 'My command';
 
